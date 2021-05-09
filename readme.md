@@ -29,4 +29,4 @@ Just run
 python main.py
 ```
 
-You can change hyperparameters in `configs.py`.
+You can change hyperparameters in `config.py`.
